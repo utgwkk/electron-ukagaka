@@ -2,7 +2,7 @@
   "name": "electron-sugoiyatsu",
   "version": "0.1.0",
   "description": "sugoiyatsu",
-  "main": "main.js",
+  "main": "init.js",
   "dependencies": {
     "electron-compile": "^1.0.0"
   },
